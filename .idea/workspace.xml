@@ -12,12 +12,12 @@
     <session id="-1844776540">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="73" />
+          <entry key="project.closed" value="74" />
           <entry key="project.open.time.100" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.14" value="4" />
-          <entry key="project.open.time.15" value="10" />
+          <entry key="project.open.time.15" value="11" />
           <entry key="project.open.time.16" value="5" />
           <entry key="project.open.time.17" value="6" />
           <entry key="project.open.time.18" value="9" />
@@ -38,19 +38,19 @@
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.68" value="1" />
-          <entry key="project.opened" value="79" />
+          <entry key="project.opened" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="json" value="9" />
-          <entry key="py" value="99" />
+          <entry key="json" value="11" />
+          <entry key="py" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="9" />
-          <entry key="Python" value="99" />
+          <entry key="JSON" value="11" />
+          <entry key="Python" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -58,14 +58,14 @@
           <entry key="Python Console" value="126" />
           <entry key="dummy" value="5" />
           <entry key="json" value="64" />
-          <entry key="py" value="8323" />
+          <entry key="py" value="8466" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="64" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="8449" />
+          <entry key="Python" value="8592" />
         </counts>
       </usages-collector>
     </session>
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test_add_group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -84,12 +84,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+            <state relative-caret-position="565">
+              <caret line="54" column="78" selection-start-line="54" selection-start-column="78" selection-end-line="54" selection-end-column="78" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1550701657321" expanded="true" signature="1105:1326" ph="..." />
-                <marker date="1550701657321" expanded="true" signature="1324:1325" ph="..." />
+                <marker date="1550784007752" expanded="true" signature="1123:1521" ph="..." />
+                <marker date="1550784007752" expanded="true" signature="1519:1520" ph="..." />
+                <marker date="1550784007752" expanded="true" signature="1641:1646" ph="..." />
+                <marker date="1550784007752" expanded="true" signature="1785:1787" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generator/group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,12 +154,12 @@
         <option value="$PROJECT_DIR$/Data/Add_group.py" />
         <option value="$PROJECT_DIR$/Data/add_group.py" />
         <option value="$PROJECT_DIR$/Data/group.json" />
-        <option value="$PROJECT_DIR$/generator/group.py" />
         <option value="$PROJECT_DIR$/Data/group.py" />
         <option value="$PROJECT_DIR$/generator/Temp.py" />
-        <option value="$PROJECT_DIR$/test/test_add_group.py" />
         <option value="$PROJECT_DIR$/data/groups.py" />
+        <option value="$PROJECT_DIR$/generator/group.py" />
         <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/test/test_add_group.py" />
       </list>
     </option>
   </component>
@@ -199,7 +213,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Grab_links_from_page" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -221,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_add_group.py">
+  <component name="RunManager" selected="Python tests.pytest for test_add_group.test_add_group">
     <configuration name="Temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Selenium_Barancev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,7 +291,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator/group.py" />
-      <option name="PARAMETERS" value="-n 10 -f Data/test.json" />
+      <option name="PARAMETERS" value="-n 10 -f data/group.json" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -340,9 +354,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_add_group.test_add_group" />
         <item itemvalue="Python tests.pytest in test_add_group.py" />
         <item itemvalue="Python.conftest" />
-        <item itemvalue="Python tests.pytest for test_add_group.test_add_group" />
         <item itemvalue="Python.Temp" />
         <item itemvalue="Python tests.pytest in test_del_group.py" />
       </list>
@@ -352,12 +366,6 @@
     <configuration>C:\Users\Aleksandr\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_add_group_test_add_group - 2019.02.20 at 23h 06m 45s.xml">
-      <configuration name="pytest for test_add_group.test_add_group" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_add_group_test_add_group - 2019.02.20 at 23h 07m 41s.xml">
-      <configuration name="pytest for test_add_group.test_add_group" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_test_add_group_test_add_group - 2019.02.20 at 23h 08m 44s.xml">
       <configuration name="pytest for test_add_group.test_add_group" configurationId="tests" />
     </history-entry>
@@ -381,6 +389,12 @@
     </history-entry>
     <history-entry file="pytest_in_test_add_group_py - 2019.02.21 at 00h 28m 18s.xml">
       <configuration name="pytest in test_add_group.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_add_group_test_add_group - 2019.02.21 at 23h 20m 10s.xml">
+      <configuration name="pytest for test_add_group.test_add_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_add_group_test_add_group - 2019.02.21 at 23h 23m 50s.xml">
+      <configuration name="pytest for test_add_group.test_add_group" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -570,14 +584,6 @@
     <entry file="file://$PROJECT_DIR$/generator/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test.json" />
     <entry file="file://$PROJECT_DIR$/fixture/application.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -606,14 +612,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/group.json" />
     <entry file="file://$PROJECT_DIR$/generator/Temp.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/group.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="54" column="78" selection-start-line="54" selection-start-column="78" selection-end-line="54" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1550784007752" expanded="true" signature="1123:1521" ph="..." />
+            <marker date="1550784007752" expanded="true" signature="1519:1520" ph="..." />
+            <marker date="1550784007752" expanded="true" signature="1641:1646" ph="..." />
+            <marker date="1550784007752" expanded="true" signature="1785:1787" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/generator/group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="480">
+          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -624,22 +663,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1550701657321" expanded="true" signature="1105:1326" ph="..." />
-            <marker date="1550701657321" expanded="true" signature="1324:1325" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_add_group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
